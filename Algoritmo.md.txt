@@ -1,5 +1,5 @@
 markdown
- **Algoritmo**  
+Algoritmo  
  
 •>	Identificamos las variables que nos da el problema
 •>	Identificamos que hay precios y recargos constantes las declaramos y asignamos valores a esas variables eso lo da la compañía
