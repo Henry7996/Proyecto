@@ -1,0 +1,15 @@
+
+Algoritmo
+•	Identificamos las variables que nos da el problema
+•	Identificamos que hay precios y recargos constantes las declaramos y asignamos valores a esas variables eso lo da la compañía
+•	Verificamos las condiciones que nos da la compañía
+•	Si tiene hijos se le aplica el 20% por cada hijo
+•	Tenemos que verificar la edad del cliente
+•	Tenemos que verificar la edad del conyugue
+•	Luego se aplica el recargo al precio base
+•	Empiezo a trabajar  con la cotización individual
+•	Luego se le pregunta si esta casado  en caso de  estar casado
+•	Ala cónyuge se le agrega el  20%
+•	Si tiene hijos tiene  un recargo del 20% por hijo
+•	Luego hacemos las operaciones dependiendo de lo que obtengamos del cliente 
+•	Y se muestra la cotización 
