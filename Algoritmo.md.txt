@@ -14,3 +14,4 @@ Algoritmo
 •>	Si tiene hijos tiene  un recargo del 20% por hijo
 •>	Luego hacemos las operaciones dependiendo de lo que obtengamos del cliente 
 •>	Y se muestra la cotización 
+<https://github.com/Henry7996/Proyecto/edit/master/Algoritmo.md.txt>
